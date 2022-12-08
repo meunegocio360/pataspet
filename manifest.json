@@ -1,4 +1,8 @@
 {
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
+ "name": "Patas Pet - Tour Virtual 360°",
+ "description": "Rua Luís Góis, 1680 - Mirandópolis, São Paulo - SP",
  "icons": [
   {
    "type": "image/png",
@@ -36,10 +40,6 @@
    "src": "misc/icon16.png"
   }
  ],
- "start_url": "index.htm",
- "background_color": "#FFFF00",
- "description": "Rua Luís Góis, 1680 - Mirandópolis, São Paulo - SP",
  "display": "fullscreen",
- "name": "Patas Pet - Tour Virtual 360°",
- "theme_color": "#FFFF00"
+ "start_url": "index.htm"
 }
